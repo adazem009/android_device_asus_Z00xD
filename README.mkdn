@@ -1,4 +1,4 @@
-# Unified Device Tree for Asus Zenfone 2 Laser ZE500KL/KG (720p)
+# Unified Device Tree for Asus Zenfone 2 Laser ZE500KL/KG (720p) (for Havoc-OS)
 
 ## Spec Sheet
 
