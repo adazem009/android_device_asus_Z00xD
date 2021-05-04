@@ -14,8 +14,8 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_Z00xD.mk
+    $(LOCAL_DIR)/rr_Z00xD.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_Z00xD-userdebug \
-    lineage_Z00xD-eng
+    rr_Z00xD-userdebug \
+    rr_Z00xD-eng
