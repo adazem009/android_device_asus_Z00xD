@@ -18,6 +18,7 @@
 $(call inherit-product-if-exists, vendor/asus/Z00xD/Z00xD-vendor.mk)
 
 $(call inherit-product, frameworks/native/build/phone-xhdpi-2048-dalvik-heap.mk)
+$(call inherit-product, $(SRC_TARGET_DIR)/product/go_defaults.mk)
 
 # Screen density
 PRODUCT_AAPT_CONFIG := normal
